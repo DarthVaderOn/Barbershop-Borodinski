@@ -136,13 +136,13 @@ ___
 - *Реализация страницы новостной ленты.*<br/>
 <a href="https://ibb.co/r3NcyGF"><img src="https://i.ibb.co/zFD7fhQ/2.jpg" alt="2" border="0"></a>
 
-- *Реализация страницы прайс-листа барбеншопа.*<br/>
+- *Реализация страницы прайс-листа барбершопа.*<br/>
 <a href="https://ibb.co/Cpc3PTQ"><img src="https://i.ibb.co/JW1w3MH/3.jpg" alt="3" border="0"></a>
 
-- *Реализация страницы контактных данных барбеншопа.*<br/>
+- *Реализация страницы контактных данных барбершопа.*<br/>
 <a href="https://ibb.co/N9qtFXG"><img src="https://i.ibb.co/sK4bghX/4.jpg" alt="4" border="0"></a>
 
-- *Реализация регистрации и авторизации пользователя.*<br/>
+- *Реализация авторизации пользователя.*<br/>
 <a href="https://ibb.co/SQNv08q"><img src="https://i.ibb.co/LQSp6W4/5.jpg" alt="5" border="0"></a>
 
 - *Реализация карты при нажатии "Как проехать".*<br/>
